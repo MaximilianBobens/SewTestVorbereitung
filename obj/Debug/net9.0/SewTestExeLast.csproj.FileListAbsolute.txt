@@ -1,0 +1,14 @@
+C:\Users\maxim\RiderProjects\SewTestExeLast\SewTestExeLast\bin\Debug\net9.0\SewTestExeLast.exe
+C:\Users\maxim\RiderProjects\SewTestExeLast\SewTestExeLast\bin\Debug\net9.0\SewTestExeLast.deps.json
+C:\Users\maxim\RiderProjects\SewTestExeLast\SewTestExeLast\bin\Debug\net9.0\SewTestExeLast.runtimeconfig.json
+C:\Users\maxim\RiderProjects\SewTestExeLast\SewTestExeLast\bin\Debug\net9.0\SewTestExeLast.dll
+C:\Users\maxim\RiderProjects\SewTestExeLast\SewTestExeLast\bin\Debug\net9.0\SewTestExeLast.pdb
+C:\Users\maxim\RiderProjects\SewTestExeLast\SewTestExeLast\obj\Debug\net9.0\SewTestExeLast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\RiderProjects\SewTestExeLast\SewTestExeLast\obj\Debug\net9.0\SewTestExeLast.AssemblyInfoInputs.cache
+C:\Users\maxim\RiderProjects\SewTestExeLast\SewTestExeLast\obj\Debug\net9.0\SewTestExeLast.AssemblyInfo.cs
+C:\Users\maxim\RiderProjects\SewTestExeLast\SewTestExeLast\obj\Debug\net9.0\SewTestExeLast.csproj.CoreCompileInputs.cache
+C:\Users\maxim\RiderProjects\SewTestExeLast\SewTestExeLast\obj\Debug\net9.0\SewTestExeLast.dll
+C:\Users\maxim\RiderProjects\SewTestExeLast\SewTestExeLast\obj\Debug\net9.0\refint\SewTestExeLast.dll
+C:\Users\maxim\RiderProjects\SewTestExeLast\SewTestExeLast\obj\Debug\net9.0\SewTestExeLast.pdb
+C:\Users\maxim\RiderProjects\SewTestExeLast\SewTestExeLast\obj\Debug\net9.0\SewTestExeLast.genruntimeconfig.cache
+C:\Users\maxim\RiderProjects\SewTestExeLast\SewTestExeLast\obj\Debug\net9.0\ref\SewTestExeLast.dll
