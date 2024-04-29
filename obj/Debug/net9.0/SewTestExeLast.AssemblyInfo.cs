@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SewTestExeLast")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be07bb68ae5fd2e0e4572ece43e0214461f271d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d241e1df4a169cca564936815ff3e72d5dce5dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("SewTestExeLast")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SewTestExeLast")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
