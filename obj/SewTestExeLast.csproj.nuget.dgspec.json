@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maxim\\RiderProjects\\SewTestExeLast\\SewTestExeLast\\SewTestExeLast.csproj": {}
+    "C:\\Users\\maxim\\RiderProjects\\SewTestVorbereitung\\SewTestExeLast.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maxim\\RiderProjects\\SewTestExeLast\\SewTestExeLast\\SewTestExeLast.csproj": {
+    "C:\\Users\\maxim\\RiderProjects\\SewTestVorbereitung\\SewTestExeLast.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maxim\\RiderProjects\\SewTestExeLast\\SewTestExeLast\\SewTestExeLast.csproj",
+        "projectUniqueName": "C:\\Users\\maxim\\RiderProjects\\SewTestVorbereitung\\SewTestExeLast.csproj",
         "projectName": "SewTestExeLast",
-        "projectPath": "C:\\Users\\maxim\\RiderProjects\\SewTestExeLast\\SewTestExeLast\\SewTestExeLast.csproj",
+        "projectPath": "C:\\Users\\maxim\\RiderProjects\\SewTestVorbereitung\\SewTestExeLast.csproj",
         "packagesPath": "C:\\Users\\maxim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maxim\\RiderProjects\\SewTestExeLast\\SewTestExeLast\\obj\\",
+        "outputPath": "C:\\Users\\maxim\\RiderProjects\\SewTestVorbereitung\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\maxim\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\maxim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
