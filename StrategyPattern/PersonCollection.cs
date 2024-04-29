@@ -34,4 +34,9 @@ public class PersonCollection : ICompareable<Person>
             Console.WriteLine($"Name: {person.FirstName} {person.LastName}, Age: {person.Age}");
         }
     }
+
+    public string ToString(Person person)
+    {
+        return $"Name: {person.FirstName} {person.LastName}, Age: {person.Age}";
+    }
 }

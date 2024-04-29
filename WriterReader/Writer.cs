@@ -4,29 +4,20 @@ public class Writer
 {
     static void WriteToFile(string filePath, string content)
     {
-        StreamWriter writer = null;
-        try
-        {
-            // Erstellen oder Öffnen der Datei zum Schreiben
-            writer = new StreamWriter(filePath);
-            writer.WriteLine(content); // Schreiben einer Zeile in die Datei
-        }
-        finally
-        {
-            // Stellen Sie sicher, dass der StreamWriter geschlossen wird, selbst bei Fehlern
-            if (writer != null)
-            {
-                writer.Close(); // Schließen der Datei
-            }
-        }
+            //Normal ohne Pfad 
+            StreamWriter writer = new StreamWriter(filePath);
+            writer.WriteLine(content);
+            
+            //bei gegebener datei
+            string dateiPfad = "testDatei.txt";
+            StreamWriter writer2 = new StreamWriter(filePath);
+            writer2.WriteLine("Test");
     }
     
     public void SaveList(string filename)
     {
         File.WriteAllLines(filename,Names.ToArray());
     }
-
-
 
     static void Entry()
     {

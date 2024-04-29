@@ -84,6 +84,7 @@ class Program
         dictionary.Remove(3);
         Console.WriteLine("Element aus dem Dictionary entfernt.");
         Console.WriteLine("Dictionary nach Entfernen:");
+        
         foreach (var kvp in dictionary)
         {
             Console.WriteLine("Key: " + kvp.Key + ", Value: " + kvp.Value);
